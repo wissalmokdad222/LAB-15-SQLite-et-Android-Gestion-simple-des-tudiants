@@ -1,0 +1,7 @@
+<resources>
+    <style name="myStyle">
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">#C2185B</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
